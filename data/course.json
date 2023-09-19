@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "37c8e02a-e470-e6a7-debb-a195a0a664a0",
+  "instructors": {
+    "content": [
+      "030befc3-653f-c37b-adeb-34d7d4700e88"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9b772f92-b8b6-b602-4b83-d408283d9706",
+    "website": "6-243j-dynamics-of-nonlinear-systems-fall-2003"
+  },
+  "course_title": "Dynamics of Nonlinear Systems",
+  "course_description": "This course provides an\u00a0introduction to nonlinear deterministic dynamical systems. Topics covered include: nonlinear ordinary differential equations; planar autonomous systems; fundamental theory: Picard iteration, contraction mapping theorem, and Bellman-Gronwall lemma; stability of equilibria by Lyapunov's first and second methods; feedback linearization; and application to nonlinear circuits and control systems.\n",
+  "department_numbers": [
+    "6",
+    "2",
+    "16"
+  ],
+  "extra_course_numbers": "2.156J,16.337J",
+  "primary_course_number": "6.243J",
+  "course_image_thumbnail": {
+    "content": "e3c3b367-0980-bac6-f9e8-d796f8a05957",
+    "website": "6-243j-dynamics-of-nonlinear-systems-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "74652c3c-417a-4014-b215-9fb0910837e8",
+  "site_short_id": "6.243j-fall-2003",
+  "title": "Course Metadata"
+}
